@@ -1,21 +1,19 @@
-# FEUP IA 2
+# FEUP - Artificial Intelligence Assignment 2
+## Autism Dataset for Toddlers
 
-A1 - Does your child look at you when you call his/her name?
+### Group A2-11
 
-A2 - How easy is it for you to get eye contact with your child? 
+| Name             | Number    |
+| ---------------- | --------- |
+| Bernardo Campos| 202006056 |
+| Davide Texeira | 202109860 |
+| Emanuel Maia | 202107486 |
 
-A3 - Does your child point to indicate that s/he wants something? (e.g. a toy that is out of reach) 
+### Running Instructions
 
-A4 - Does your child point to share interest with you? (e.g. pointing at an interesting sight) 
+You can install the necessary dependencies by running the following command:
 
-A5 - Does your child pretend? (e.g. care for dolls, talk on a toy phone) 
-
-A6 - Does your child follow where you’re looking? 
-
-A7 - If you or someone else in the family is visibly upset, does your child show signs of wanting to comfort them? (e.g. stroking hair, hugging them)
-
-A8 - Would you describe your child’s first words as unusual?
-
-A9 - Does your child use simple gestures? (e.g. wave goodbye) 
-
-A10 - Does your child stare at nothing with no apparent purpose?
+```bash
+pip install pandas matplotlib seaborn scikit-learn pycaret
+```
+Then the project can be used as a regular Jupyter Notebook.
