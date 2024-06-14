@@ -1,6 +1,6 @@
 # Autism Spectrum Distorder Dataset for Toddlers
 
-This repository uses data from Autism Spectrum Disorder (ASD) to train machine learning models that can predict whether a toddler is autistic.
+This repository uses data from [Autism Spectrum Disorder (ASD)](https://www.kaggle.com/datasets/vaishnavisirigiri/autism-dataset-for-toddlers) dataset to train machine learning models that can predict whether a toddler is autistic.
 
 ## Running Instructions
 
